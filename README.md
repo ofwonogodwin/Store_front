@@ -18,16 +18,15 @@ This repository contains the source code for a simple e-commerce website. The pr
 
  
 ## Technologies Used
-	•	Frontend: List frontend technologies, e.g., React, Vue.js, HTML/CSS
+	•	Frontend: HTML/CSS
 	•	Backend: List backend technologies, e.g., Node.js, Django, Flask
 	•	Database: List database technology, e.g., MongoDB, PostgreSQL
 	•	Deployment: List deployment platform, e.g., Heroku, AWS
 
   ## Setup and Installation
 	1.	Clone the Repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ofwonogodwin/Store_front.git
  Contributing
-Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request.
+Contributions are welcome! Feel free to submit a pull request if you have any ideas or improvements.
 
-For any questions or feedback, please reach out to Your Email.
-Make sure to replace placeholders like your-username, your-repo-name, and your-email@example.com with your actual details. Also, update the technologies and features as per your project’s specifications.
+For any questions or feedback, please reach out to godwinofwono933@gmail.com
