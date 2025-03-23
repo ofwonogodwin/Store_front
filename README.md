@@ -19,7 +19,7 @@ This repository contains the source code for a simple e-commerce website. The pr
  
 ## Technologies Used
 	•	Frontend: HTML/CSS
-	•	Backend: List backend technologies, e.g., Node.js, Django, Flask
+	•	Backend: Django
 	•	Database: List database technology, e.g., MongoDB, PostgreSQL
 	•	Deployment: List deployment platform, e.g., Heroku, AWS
 
