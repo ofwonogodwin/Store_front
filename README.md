@@ -1,9 +1,7 @@
 # Store Front  (In Development)
 
 
-## By Rwoth Ofwono
-
-## Software Eng
+## By Rwoth Ofwono( Software Eng )
 
 
 ## Overview
