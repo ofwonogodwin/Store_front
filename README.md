@@ -23,6 +23,7 @@ This repository contains the source code for a simple e-commerce website. The pr
 	•	Frontend: HTML/CSS
 	•	Backend: Django
 	•	Database: Currently no Database But will Use Postgre SQL
+ 	containered in Docker
 	•	Deployment: Will be deployed on Crane Cloud
 
   ## Setup and Installation
